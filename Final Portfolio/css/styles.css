@@ -1,0 +1,33 @@
+
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#aboutme {
+  padding: 7% 15%;
+  background-color: lightgrey;
+  font-family: Silkscreen;
+}
+
+#carouselsec {
+  padding: 7% 15%;
+  background-color: lavenderblush;
+}
+
+#cardsec {
+  padding: 7% 15%;
+  background-color: lightgrey;
+}
+
+.card-title {
+  font-family: SilkScreen;
+}
+
+.card-text{
+  font-family: Silkscreen;
+}
